@@ -1,0 +1,18 @@
+# Local files
+毕业设计(论文)开题报告-2017 模板.pdf
+毕业设计(论文)任务书 -2017 传统木结构.doc
+毕业设计(论文)任务书 -2017 传统木结构.pdf
+~$设计论文开题报告_唐家英.doc
+~$毕业设计选题.docx
+*.pdf
+毕业设计选题.docx
+*.tmp
+
+-# Windows image file caches
++# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
++ehthumbs_vista.db
+  
+# Folder config file
+Desktop.ini
