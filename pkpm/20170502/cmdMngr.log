@@ -1,18 +1,18 @@
-2017-05-02 23:29:23 > wxlCmdMngr log system started.
-2017-05-02 23:29:25 > Loading plugin list: "D:\PKPM\PM\pmplugin.txt".
-2017-05-02 23:29:25 > Loading plugin "PM3J.dll".
-2017-05-02 23:29:25 > PM3J.dll Loaded.
-2017-05-02 23:29:25 > Loading plugin "PmsrwAddin.dll".
-2017-05-02 23:29:25 > PmsrwAddin.dll Loaded.
-2017-05-02 23:29:25 > Loading plugin "PM3N.dll".
-2017-05-02 23:29:25 > PM3N.dll Loaded.
-2017-05-02 23:29:25 > Loading plugin "CranePMBZ.dll".
-2017-05-02 23:29:25 > CranePMBZ.dll Loaded.
-2017-05-02 23:29:25 > Loading plugin "PMSRWZW.dll".
-2017-05-02 23:29:25 > PMSRWZW.dll Loaded.
-2017-05-02 23:29:57 > PM3N.DLL UnLoaded.
-2017-05-02 23:29:57 > PMSRWZW.DLL UnLoaded.
-2017-05-02 23:29:57 > CRANEPMBZ.DLL UnLoaded.
-2017-05-02 23:29:57 > PMSRWADDIN.DLL UnLoaded.
-2017-05-02 23:29:57 > PM3J.DLL UnLoaded.
-2017-05-02 23:29:57 > wxlCmdMngr log system stopped.
+2017-05-17 22:19:33 > wxlCmdMngr log system started.
+2017-05-17 22:19:35 > Loading plugin list: "D:\PKPM\PM\pmplugin.txt".
+2017-05-17 22:19:35 > Loading plugin "PM3J.dll".
+2017-05-17 22:19:35 > PM3J.dll Loaded.
+2017-05-17 22:19:35 > Loading plugin "PmsrwAddin.dll".
+2017-05-17 22:19:35 > PmsrwAddin.dll Loaded.
+2017-05-17 22:19:35 > Loading plugin "PM3N.dll".
+2017-05-17 22:19:35 > PM3N.dll Loaded.
+2017-05-17 22:19:35 > Loading plugin "CranePMBZ.dll".
+2017-05-17 22:19:35 > CranePMBZ.dll Loaded.
+2017-05-17 22:19:35 > Loading plugin "PMSRWZW.dll".
+2017-05-17 22:19:35 > PMSRWZW.dll Loaded.
+2017-05-17 22:19:46 > PM3N.DLL UnLoaded.
+2017-05-17 22:19:46 > PMSRWZW.DLL UnLoaded.
+2017-05-17 22:19:46 > CRANEPMBZ.DLL UnLoaded.
+2017-05-17 22:19:46 > PMSRWADDIN.DLL UnLoaded.
+2017-05-17 22:19:46 > PM3J.DLL UnLoaded.
+2017-05-17 22:19:46 > wxlCmdMngr log system stopped.
