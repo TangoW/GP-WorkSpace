@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GB18030" ?>
+<chapter>SATWE计算书包含文件<chapter>文本文件<filedata>D:\桌面\GP\GP\pkpm\201705221326\WMASS.OUT@总信息文件(D:\桌面\GP\GP\pkpm\201705221326\WMASS.OUT)</filedata>
+        <filedata>D:\桌面\GP\GP\pkpm\201705221326\WZQ.OUT@周期、振型文件(D:\桌面\GP\GP\pkpm\201705221326\WZQ.OUT)</filedata>
+        <filedata>D:\桌面\GP\GP\pkpm\201705221326\WDISP.OUT@位移文件(D:\桌面\GP\GP\pkpm\201705221326\WDISP.OUT)</filedata>
+        <filedata>D:\桌面\GP\GP\pkpm\201705221326\WGCPJ.OUT@超配筋信息文件(D:\桌面\GP\GP\pkpm\201705221326\WGCPJ.OUT)</filedata>
+    </chapter>
+    <chapter>各层恒载简图<filedata>D:\桌面\GP\GP\pkpm\201705221326\第1层梁、墙柱节点输入及楼面恒载平面图.T@第 1 层恒载简图(D:\桌面\GP\GP\pkpm\201705221326\第1层梁、墙柱节点输入及楼面恒载平面图.T)</filedata>
+    </chapter>
+    <chapter>各层活载简图<filedata>D:\桌面\GP\GP\pkpm\201705221326\第1层梁、墙柱节点输入及楼面活载平面图.T@第 1 层活载简图(D:\桌面\GP\GP\pkpm\201705221326\第1层梁、墙柱节点输入及楼面活载平面图.T)</filedata>
+    </chapter>
+    <chapter>各层平面简图<filedata>D:\桌面\GP\GP\pkpm\201705221326\WPJW1.T@第 1 层平面简图(D:\桌面\GP\GP\pkpm\201705221326\WPJW1.T)</filedata>
+    </chapter>
+    <chapter>各层配筋简图<filedata>D:\桌面\GP\GP\pkpm\201705221326\WPJ1.T@第 1 层配筋简图(D:\桌面\GP\GP\pkpm\201705221326\WPJ1.T)</filedata>
+        <filedata>D:\桌面\GP\GP\pkpm\201705221326\WPJ2.T@第 2 层配筋简图(D:\桌面\GP\GP\pkpm\201705221326\WPJ2.T)</filedata>
+    </chapter>
+</chapter>

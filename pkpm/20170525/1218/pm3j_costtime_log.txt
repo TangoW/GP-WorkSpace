@@ -1,0 +1,36 @@
+Calc:FormLoad            :         0 ms       0.0%
+
+Calc:ZHUDY               :         0 ms       0.0%
+
+Calc:WallLoadTransfer:MERGEJAN_3:        78 ms      26.3%
+
+Calc:GenBeamLoad         :        31 ms      10.4%
+
+Calc:InitFloorData       :         0 ms       0.0%
+
+PM3J                     :       297 ms     100.0%
+
+InitMDLoad:lwlREDLYR_C   :        32 ms      10.8%
+
+Calc:ADD_FORCE           :         0 ms       0.0%
+
+Calc:FORM_LAYER_SUPORT   :         0 ms       0.0%
+
+SaveResultFile           :        16 ms       5.4%
+
+Calc:WallLoadTransfer    :       124 ms      41.8%
+
+Calc:CalcSelfWeight      :         0 ms       0.0%
+
+Calc:RedLyr              :        16 ms       5.4%
+
+Calc:WallLoadTransfer:FormJPass:         0 ms       0.0%
+
+GenNodeMap               :         0 ms       0.0%
+
+Calc:JFC                 :        16 ms       5.4%
+
+Calc:LoadDirectTrans     :         0 ms       0.0%
+
+InitMDLoad               :        47 ms      15.8%
+

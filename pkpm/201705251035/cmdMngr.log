@@ -1,0 +1,27 @@
+2017-05-25 10:19:15 > wxlCmdMngr log system started.
+2017-05-25 10:19:17 > Loading plugin list: "D:\Program files\PKPM\PM\pmplugin.txt".
+2017-05-25 10:19:17 > Loading plugin "PM3J.dll".
+2017-05-25 10:19:17 > PM3J.dll Loaded.
+2017-05-25 10:19:17 > Loading plugin "PmsrwAddin.dll".
+2017-05-25 10:19:17 > PmsrwAddin.dll Loaded.
+2017-05-25 10:19:17 > Loading plugin "PM3N.dll".
+2017-05-25 10:19:17 > PM3N.dll Loaded.
+2017-05-25 10:19:17 > Loading plugin "CranePMBZ.dll".
+2017-05-25 10:19:17 > CranePMBZ.dll Loaded.
+2017-05-25 10:19:17 > Loading plugin "PMSRWZW.dll".
+2017-05-25 10:19:17 > PMSRWZW.dll Loaded.
+2017-05-25 10:22:27 > Run Command: RESETALLID(0)
+2017-05-25 10:22:28 > Run Command: DELLAYERDEFAULTSUPPORT(0)
+2017-05-25 10:22:29 > Run Command: SETLAYERDEFAULTSUPPORT(0)
+2017-05-25 10:22:29 > Run Command: CHECKPMERR(0)
+2017-05-25 10:22:29 > Run Command: ZWPARACHECK(1)
+2017-05-25 10:22:29 > Run Command: ZWARRANGECHECK(1)
+2017-05-25 10:22:29 > Run Command: ZWLOADCHECK(1)
+2017-05-25 10:22:30 > Run Command:       pm3n(0)
+2017-05-25 10:22:31 > Run Command:   pm3jtest(0)
+2017-05-25 10:22:31 > PM3N.DLL UnLoaded.
+2017-05-25 10:22:31 > PMSRWZW.DLL UnLoaded.
+2017-05-25 10:22:31 > CRANEPMBZ.DLL UnLoaded.
+2017-05-25 10:22:31 > PMSRWADDIN.DLL UnLoaded.
+2017-05-25 10:22:31 > PM3J.DLL UnLoaded.
+2017-05-25 10:22:31 > wxlCmdMngr log system stopped.

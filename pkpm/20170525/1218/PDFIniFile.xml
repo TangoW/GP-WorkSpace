@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="GB18030" ?>
+<chapter>SATWE计算书包含文件<chapter>文本文件<filedata>D:\DT\GP\GP\pkpm\20170525\1218\WMASS.OUT@总信息文件(D:\DT\GP\GP\pkpm\20170525\1218\WMASS.OUT)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\WZQ.OUT@周期、振型文件(D:\DT\GP\GP\pkpm\20170525\1218\WZQ.OUT)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\WDISP.OUT@位移文件(D:\DT\GP\GP\pkpm\20170525\1218\WDISP.OUT)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\WGCPJ.OUT@超配筋信息文件(D:\DT\GP\GP\pkpm\20170525\1218\WGCPJ.OUT)</filedata>
+    </chapter>
+    <chapter>各层恒载简图<filedata>D:\DT\GP\GP\pkpm\20170525\1218\第1层梁、墙柱节点输入及楼面恒载平面图.T@第 1 层恒载简图(D:\DT\GP\GP\pkpm\20170525\1218\第1层梁、墙柱节点输入及楼面恒载平面图.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\第2层梁、墙柱节点输入及楼面恒载平面图.T@第 2 层恒载简图(D:\DT\GP\GP\pkpm\20170525\1218\第2层梁、墙柱节点输入及楼面恒载平面图.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\第3层梁、墙柱节点输入及楼面恒载平面图.T@第 3 层恒载简图(D:\DT\GP\GP\pkpm\20170525\1218\第3层梁、墙柱节点输入及楼面恒载平面图.T)</filedata>
+    </chapter>
+    <chapter>各层活载简图<filedata>D:\DT\GP\GP\pkpm\20170525\1218\第1层梁、墙柱节点输入及楼面活载平面图.T@第 1 层活载简图(D:\DT\GP\GP\pkpm\20170525\1218\第1层梁、墙柱节点输入及楼面活载平面图.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\第2层梁、墙柱节点输入及楼面活载平面图.T@第 2 层活载简图(D:\DT\GP\GP\pkpm\20170525\1218\第2层梁、墙柱节点输入及楼面活载平面图.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\第3层梁、墙柱节点输入及楼面活载平面图.T@第 3 层活载简图(D:\DT\GP\GP\pkpm\20170525\1218\第3层梁、墙柱节点输入及楼面活载平面图.T)</filedata>
+    </chapter>
+    <chapter>各层平面简图<filedata>D:\DT\GP\GP\pkpm\20170525\1218\WPJW1.T@第 1 层平面简图(D:\DT\GP\GP\pkpm\20170525\1218\WPJW1.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\WPJW2.T@第 2 层平面简图(D:\DT\GP\GP\pkpm\20170525\1218\WPJW2.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\WPJW3.T@第 3 层平面简图(D:\DT\GP\GP\pkpm\20170525\1218\WPJW3.T)</filedata>
+    </chapter>
+    <chapter>各层梁内力包络图<filedata>D:\DT\GP\GP\pkpm\20170525\1218\WBEMF1.T@第 1 层梁弯矩包络图(D:\DT\GP\GP\pkpm\20170525\1218\WBEMF1.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\WBEMF2.T@第 2 层梁弯矩包络图(D:\DT\GP\GP\pkpm\20170525\1218\WBEMF2.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\WBEMF3.T@第 3 层梁弯矩包络图(D:\DT\GP\GP\pkpm\20170525\1218\WBEMF3.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\WBESF1.T@第 1 层梁剪力包络图(D:\DT\GP\GP\pkpm\20170525\1218\WBESF1.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\WBESF2.T@第 2 层梁剪力包络图(D:\DT\GP\GP\pkpm\20170525\1218\WBESF2.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\WBESF3.T@第 3 层梁剪力包络图(D:\DT\GP\GP\pkpm\20170525\1218\WBESF3.T)</filedata>
+    </chapter>
+    <chapter>各层配筋简图<filedata>D:\DT\GP\GP\pkpm\20170525\1218\WPJ1.T@第 1 层配筋简图(D:\DT\GP\GP\pkpm\20170525\1218\WPJ1.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\WPJ2.T@第 2 层配筋简图(D:\DT\GP\GP\pkpm\20170525\1218\WPJ2.T)</filedata>
+        <filedata>D:\DT\GP\GP\pkpm\20170525\1218\WPJ3.T@第 3 层配筋简图(D:\DT\GP\GP\pkpm\20170525\1218\WPJ3.T)</filedata>
+    </chapter>
+</chapter>
