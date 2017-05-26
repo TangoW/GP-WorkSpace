@@ -1,1 +1,33 @@
-2017-05-25 19:25:04 > wxlCmdMngr log system started.
+2017-05-26 13:34:30 > wxlCmdMngr log system started.
+2017-05-26 13:34:34 > Loading plugin "PKDETAIL.DLL".
+2017-05-26 13:34:34 > PKDETAIL.DLL Loaded.
+2017-05-26 13:34:34 > Loading plugin "LYCOLUMDETAIL.DLL".
+2017-05-26 13:34:34 > LYCOLUMDETAIL.DLL Loaded.
+2017-05-26 13:34:34 > Loading plugin "GZSTPLAN.DLL".
+2017-05-26 13:34:34 > GZSTPLAN.DLL Loaded.
+2017-05-26 13:34:34 > Loading plugin "PM5W.DLL".
+2017-05-26 13:34:34 > PM5W.DLL Loaded.
+2017-05-26 13:35:01 > Run Command: RWJ_XGLOAD(0)
+2017-05-26 13:35:06 > Run Command: RWJ_AUTOCAL(0)
+2017-05-26 13:35:15 > Run Command:   RWJ_LBJS(0)
+2017-05-26 13:35:16 > Run Command:  RWJ_DISMO(0)
+2017-05-26 13:35:17 > Run Command:   RWJ_SPGJ(0)
+2017-05-26 13:51:52 > Run Command: RWJ_JSCSSET(0)
+2017-05-26 13:52:02 > Run Command:   RWJ_SPGJ(0)
+2017-05-26 14:06:58 > Run Command:   RWJ_LBJS(0)
+2017-05-26 14:06:58 > Run Command: RWJ_ASCHECK(0)
+2017-05-26 14:07:02 > Run Command:  RWJ_JSSHU(0)
+2017-05-26 14:09:09 > Run Command:  RWJ_JSSHU(0)
+2017-05-26 14:09:33 > Run Command: RWJ_JSCSSET(0)
+2017-05-26 14:09:43 > Run Command: RWJ_AUTOCAL(0)
+2017-05-26 14:09:45 > Run Command:   RWJ_LBJS(0)
+2017-05-26 14:09:46 > Run Command: RWJ_AUTOCAL(0)
+2017-05-26 14:09:47 > Run Command:   RWJ_SPGJ(0)
+2017-05-26 14:10:14 > Run Command: RWJ_JSCSSET(0)
+2017-05-26 14:10:17 > Run Command: RWJ_AUTOCAL(0)
+2017-05-26 14:10:19 > Run Command:   RWJ_LBJS(0)
+2017-05-26 14:10:20 > Run Command:   RWJ_SPGJ(0)
+2017-05-26 14:10:42 > Run Command: RWJ_JSCSSET(0)
+2017-05-26 14:10:45 > Run Command: RWJ_AUTOCAL(0)
+2017-05-26 14:10:47 > Run Command:   RWJ_LBJS(0)
+2017-05-26 14:10:47 > Run Command:   RWJ_SPGJ(0)
